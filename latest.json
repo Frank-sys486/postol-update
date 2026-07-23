@@ -2,7 +2,7 @@
   "version": "0.1.3",
   "versionCode": 4,
   "apkUrl": "https://raw.githubusercontent.com/Frank-sys486/postol-update/main/postol-latest.apk",
-  "sha256": "c6191cfce29c6c9c01b5b95b17cfd8fa8733d15fbfe8b70bbe15c8c1cb0e252a",
+  "sha256": "a5767d29a1ceed755cf8ee1bbf43f07aae4c5d09dd9ceb2aa112463fc939375a",
   "notes": "Latest Postol release",
   "required": false
 }
