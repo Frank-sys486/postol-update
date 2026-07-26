@@ -4,5 +4,5 @@
   "apkUrl": "https://raw.githubusercontent.com/Frank-sys486/postol-update/main/postol-latest.apk",
   "sha256": "9a5e9873fa4083a220be2a67f25eb39303da71c113ce2be6b6c10c933aed1a16",
   "notes": "Latest Postol release",
-  "required": false
+  "required": true
 }
